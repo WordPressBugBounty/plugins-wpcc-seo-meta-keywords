@@ -1,14 +1,14 @@
 <?php
 /*
-    Plugin Name: Codevyne SEO Meta Keywords
+Plugin Name: Codevyne SEO Meta Keywords
 * Description: Add wordpress website page, post and product SEO meta keywords to speedup your website google search engine visibility.
 * Contributors: pradeepku041,codevyne
 *  Author: Codevyne Creatives
 *  Author URI: https://www.codevyne.com/contact-us/
 * Donate link: https://www.paypal.com/paypalme/pradeepku041/
-* Tested up to: 6.5
-* Stable tag: 1.2
-* Version: 1.2
+* Tested up to: 6.7.2
+* Stable tag: 1.3
+* Version: 1.3
 * Text Domain: wpcc-seo-meta-keywords
 * Copyright: (c) 2021-2024 Codevyne Creatives PVT LTD.
 */

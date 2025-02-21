@@ -2,15 +2,18 @@
 Tags: wp seo meta keywords, meta keywords, wordpress seo, wp seo, seo meta keywords
 Donate link: https://www.paypal.com/paypalme/pradeepku041/
 Contributors: pradeepku041, codevyne
-Tested up to: 6.5
-Stable tag: 1.2
-Version: 1.2
-Last Updated: 03-Apr-2024
+Tested up to: 6.7.2
+Stable tag: 1.3
+Version: 1.3
+Last Updated: 21-Feb-2025
 License: GPLv2 or later
 Plugin Name: Codevyne SEO Meta Keywords
 Author URI: https://www.codevyne.com/about-us/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+**Short Description:**  
+Add wordpress website page, post and product SEO meta keywords to speedup your website google search engine visibility.
 
 == Description ==
 
@@ -40,6 +43,9 @@ If any problem occurs, please contact us at work@codevyne.com
 1. How to add / Edit SEO Meta Keywords
 
 == Changelog ==
+
+= 1.3 =
+* Tested compatibility with version 6.7.2
 
 = 1.2 =
 * Tested compatibility with version 6.5
