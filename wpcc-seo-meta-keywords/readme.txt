@@ -3,9 +3,9 @@ Tags: wp seo meta keywords, meta keywords, wordpress seo, wp seo, seo meta keywo
 Donate link: https://www.paypal.com/paypalme/pradeepku041/
 Contributors: pradeepku041, codevyne
 Tested up to: 6.7.2
-Stable tag: 1.3
-Version: 1.3
-Last Updated: 21-Feb-2025
+Stable tag: 1.4
+Version: 1.4
+Last Updated: 4-apr-2025
 License: GPLv2 or later
 Plugin Name: Codevyne SEO Meta Keywords
 Author URI: https://www.codevyne.com/about-us/
@@ -43,6 +43,9 @@ If any problem occurs, please contact us at work@codevyne.com
 1. How to add / Edit SEO Meta Keywords
 
 == Changelog ==
+
+= 1.4 =
+* Fixed error PHP Warning:  Undefined variable $new_meta_value
 
 = 1.3 =
 * Tested compatibility with version 6.7.2

@@ -7,8 +7,8 @@ Plugin Name: Codevyne SEO Meta Keywords
 *  Author URI: https://www.codevyne.com/contact-us/
 * Donate link: https://www.paypal.com/paypalme/pradeepku041/
 * Tested up to: 6.7.2
-* Stable tag: 1.3
-* Version: 1.3
+* Stable tag: 1.4
+* Version: 1.4
 * Text Domain: wpcc-seo-meta-keywords
 * Copyright: (c) 2021-2024 Codevyne Creatives PVT LTD.
 */
@@ -117,7 +117,7 @@ $meta_key="wpcc_seo_meta_keywords";
   if ( $meta_box_text_value && '' == $meta_value )
     add_post_meta( $post_id, $meta_key, $meta_box_text_value, true );
 
-  elseif ( $meta_box_text_value && $new_meta_value != $meta_value )
+  elseif ( $meta_box_text_value && $meta_box_text_value != $meta_value )
     update_post_meta( $post_id, $meta_key, $meta_box_text_value );
 
   elseif (''== $meta_box_text_value && $meta_value )
